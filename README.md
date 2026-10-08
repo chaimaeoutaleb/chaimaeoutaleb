@@ -1,16 +1,29 @@
-## Hi there 👋
+### Bonjour 👋 Je suis Chaimae Outaleb
 
-<!--
-**chaimaeoutaleb/chaimaeoutaleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Développeuse Web Full Stack Junior** basée à Casablanca 🇲🇦 · Élève ingénieure en Génie Logiciel (École High-Tech)
 
-Here are some ideas to get you started:
+Je conçois des applications web complètes, de l'interface React jusqu'à l'API Laravel et la base de données.
+🎯 Je recherche un **stage** ou un **premier emploi** en développement web (full stack, React.js, PHP/Laravel, WordPress) — Casablanca, hybride ou remote.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠️ Technologies
+
+- **Front-end** : React.js · JavaScript · HTML5 · CSS3 · Bootstrap · Tailwind CSS
+- **Back-end** : PHP · Laravel · Node.js · Java (JSP/Servlet, MVC) · API REST
+- **Bases de données** : MySQL · MongoDB · Oracle (PL/SQL)
+- **CMS** : WordPress (thèmes personnalisés, Elementor)
+- **Outils** : Git · GitHub · GitLab · Jira · Agile/Scrum · UML
+
+---
+
+#### 🚀 Projet mis en avant
+
+**[Krantic – Application web de gestion de restaurant](https://github.com/chaimaeoutaleb/krantic-restaurant)** (PFE)
+React 19 · Laravel 12 · MySQL — menu dynamique, panier et commande, réservation de tables, paiement PayPal, authentification.
+
+---
+
+#### 📫 Me contacter
+
+[LinkedIn](https://www.linkedin.com/in/chaimae-outaleb-dev/) · chaimaeoutaleb710@gmail.com
