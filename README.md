@@ -25,10 +25,10 @@ Je conçois des applications web complètes, de l'interface React jusqu'à l'API
 | **[QuickSync](https://github.com/chaimaeoutaleb/quicksync-rh)** *(en cours)* | Plateforme SaaS de gestion RH | Next.js · TypeScript · Tailwind · Laravel |
 | **[SportQuiz](https://github.com/chaimaeoutaleb/sport-quiz)** | Quiz sportif gamifié : duo + chat, classement, badges, boutique, back-office | PHP · MySQL · JavaScript |
 | **[Maroc School Bus](https://github.com/chaimaeoutaleb/maroc-school-bus-wordpress)** (stage) | Thème WordPress sur mesure, réservation en ligne, Google Maps | WordPress · PHP · Bootstrap |
-| **[Portfolio](https://github.com/chaimaeoutaleb/portfolio)** | Mon portfolio personnel | HTML · CSS · JavaScript |
+| **[Portfolio](https://chaimaeoutaleb.github.io/portfolio/)** · [code](https://github.com/chaimaeoutaleb/portfolio) | Mon portfolio personnel, en ligne | HTML · CSS · JavaScript |
 
 ---
 
 #### 📫 Me contacter
 
-[LinkedIn](https://www.linkedin.com/in/chaimae-outaleb-dev/) · chaimaeoutaleb710@gmail.com
+🌐 [Portfolio](https://chaimaeoutaleb.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/chaimae-outaleb-dev/) · chaimaeoutaleb710@gmail.com
