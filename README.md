@@ -21,7 +21,7 @@ Je conçois des applications web complètes, de l'interface React jusqu'à l'API
 
 | Projet | Description | Stack |
 |---|---|---|
-| **[Krantic](https://github.com/chaimaeoutaleb/krantic-restaurant)** (PFE) · [démo](https://cozy-crisp-b269de.netlify.app/) | Gestion de restaurant : menu, panier, commande, réservation, paiement PayPal | React · Laravel · MySQL |
+| **[Krantic](https://github.com/chaimaeoutaleb/krantic-restaurant)** (PFE) | Gestion de restaurant : menu, panier, commande, réservation, paiement PayPal | React · Laravel · MySQL |
 | **[QuickSync](https://github.com/chaimaeoutaleb/quicksync-rh)** *(en cours)* | Plateforme SaaS de gestion RH | Next.js · TypeScript · Tailwind · Laravel |
 | **[SportQuiz](https://github.com/chaimaeoutaleb/sport-quiz)** | Quiz sportif gamifié : duo + chat, classement, badges, boutique, back-office | PHP · MySQL · JavaScript |
 | **[Maroc School Bus](https://github.com/chaimaeoutaleb/maroc-school-bus-wordpress)** (stage) | Thème WordPress sur mesure, réservation en ligne, Google Maps | WordPress · PHP · Bootstrap |
